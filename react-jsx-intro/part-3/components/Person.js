@@ -1,5 +1,4 @@
 const Person = ({ name, age, hobbies }) => {
-  let hobbyText;
 
   return (
     <div>
